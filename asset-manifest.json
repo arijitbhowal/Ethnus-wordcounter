@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Ethnus-wordcounter/static/css/main.073c9b0a.css",
+    "main.js": "/Ethnus-wordcounter/static/js/main.99e20c0c.js",
+    "static/js/787.3a039655.chunk.js": "/Ethnus-wordcounter/static/js/787.3a039655.chunk.js",
+    "index.html": "/Ethnus-wordcounter/index.html",
+    "main.073c9b0a.css.map": "/Ethnus-wordcounter/static/css/main.073c9b0a.css.map",
+    "main.99e20c0c.js.map": "/Ethnus-wordcounter/static/js/main.99e20c0c.js.map",
+    "787.3a039655.chunk.js.map": "/Ethnus-wordcounter/static/js/787.3a039655.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.99e20c0c.js"
+  ]
+}
